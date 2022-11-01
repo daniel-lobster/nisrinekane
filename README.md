@@ -1,7 +1,8 @@
 ### Hello <img src="https://github.githubassets.com/images/mona-whisper.gif" width="40">
 </br>
 
-
+Technologies:
+[![My Skills](https://skillicons.dev/icons?i=js,python,java,react,nodejs,mysql,flask,mongodb,html,css,bootstrap,jquery,spring,git,aws)](https://skillicons.dev)
 
 </br>
 
