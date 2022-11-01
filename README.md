@@ -1,5 +1,7 @@
-### Hello <img src="https://github.githubassets.com/images/mona-whisper.gif" width="40">
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FA6F8&width=435&lines=Hi%2C+I'm+Nisrine.)](https://git.io/typing-svg)
+<!-- <img src="https://github.githubassets.com/images/mona-whisper.gif" width="40"> -->
 </br>
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,java,react,nodejs,mysql,flask,mongodb,html,css,bootstrap,jquery,spring,git,aws)](https://skillicons.dev)
 
