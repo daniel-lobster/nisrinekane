@@ -4,7 +4,9 @@
 </br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,java,react,nodejs,mysql,flask,mongodb,html,css,bootstrap,jquery,spring,git,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,java,react,nodejs,mysql,flask,mongodb)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,spring,git,aws,heroku)](https://skillicons.dev)
 
 </br>
 
