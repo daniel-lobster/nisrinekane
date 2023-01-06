@@ -4,7 +4,7 @@
 </br>
 
 
-![My Skills](https://skillicons.dev/icons?i=js,python,java,react,nodejs,django,mysql,flask,mongodb)
+![My Skills](https://skillicons.dev/icons?i=js,python,java,django,react,nodejs,mysql,flask,mongodb)
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,jquery,spring,git,aws,heroku)
 
